@@ -1,5 +1,6 @@
 ### Hi there 👋
-  :sparkling_heart: Wecome to n1655h's Github (since Mar. 12 , 2024)
+   ## :sparkling_heart: Wecome to n1655h's Github (since Mar. 12 , 2024)
+ 
   :seedling: I'm currently learning python code in Digital Literacy and English Education class.
  
   :sunflower: My major is English Education.
