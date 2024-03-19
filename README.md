@@ -1,5 +1,6 @@
 ### Hi there 👋
-  :seedling: I'm currently learning python code in Digital literacy class.
+  :seedling: I'm currently learning python code in Digital Literacy and English Education class.
+  :sunflower: My major is English Education.
 <!--
 **n1655h/n1655h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
